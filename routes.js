@@ -1,0 +1,2 @@
+const middlewares = require('./middlewares');
+
